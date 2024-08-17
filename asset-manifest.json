@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "//everton-luciano.github.io/gitpage/static/css/main.f855e6bc.css",
-    "main.js": "//everton-luciano.github.io/gitpage/static/js/main.79f41967.js",
+    "main.js": "//everton-luciano.github.io/gitpage/static/js/main.c05bed55.js",
     "static/js/453.f44416d8.chunk.js": "//everton-luciano.github.io/gitpage/static/js/453.f44416d8.chunk.js",
     "static/media/logo.svg": "//everton-luciano.github.io/gitpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "//everton-luciano.github.io/gitpage/index.html",
     "main.f855e6bc.css.map": "//everton-luciano.github.io/gitpage/static/css/main.f855e6bc.css.map",
-    "main.79f41967.js.map": "//everton-luciano.github.io/gitpage/static/js/main.79f41967.js.map",
+    "main.c05bed55.js.map": "//everton-luciano.github.io/gitpage/static/js/main.c05bed55.js.map",
     "453.f44416d8.chunk.js.map": "//everton-luciano.github.io/gitpage/static/js/453.f44416d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.79f41967.js"
+    "static/js/main.c05bed55.js"
   ]
 }
